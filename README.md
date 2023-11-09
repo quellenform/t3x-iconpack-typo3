@@ -1,7 +1,7 @@
 [![TYPO3](https://img.shields.io/badge/TYPO3-iconpack-%23f49700?style=for-the-badge)](https://extensions.typo3.org/extension/iconpack/)
 [![Latest Stable Version](https://img.shields.io/packagist/v/quellenform/t3x-iconpack-typo3?style=for-the-badge)](https://packagist.org/packages/quellenform/t3x-iconpack-typo3)
 
-# Octicons for TYPO3
+# TYPO3 Icons for TYPO3
 
 TYPO3 CMS Extension "iconpack_typo3"
 
