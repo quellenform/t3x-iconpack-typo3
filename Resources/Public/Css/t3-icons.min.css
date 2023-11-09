@@ -1,0 +1,1 @@
+.t3-icon-spin{-webkit-animation:t3-icon-spin 2s infinite linear;animation:t3-icon-spin 2s infinite linear}@keyframes t3-icon-spin{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}.t3-icon-state-disabled{opacity:.5}.t3-icon-size-sm{font-size:.8em}.t3-icon-size-md{font-size:2em}.t3-icon-size-lg{font-size:3em}.t3-icon-size-xl{font-size:4em}

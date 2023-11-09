@@ -1,0 +1,38 @@
+// Variables
+$t3-icon-size: (
+  sm: 0.8em,
+  md: 2em,
+  lg: 3em,
+  xl: 4em,
+);
+$t3-size-modifier: .86;
+
+// Icon Animation
+.t3-icon-spin {
+  -webkit-animation: t3-icon-spin 2s infinite linear;
+  animation: t3-icon-spin 2s infinite linear;
+}
+@keyframes t3-icon-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+// States
+.t3-icon-state-disabled {
+  opacity: 0.5;
+}
+
+// Variants
+@mixin t3-icon-size($identifier) {
+  .t3-icon-size-#{$identifier} {
+    font-size: map-get($t3-icon-size, $identifier);
+  }
+}
+@include t3-icon-size(sm);
+@include t3-icon-size(md);
+@include t3-icon-size(lg);
+@include t3-icon-size(xl);
