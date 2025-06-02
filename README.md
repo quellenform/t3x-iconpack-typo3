@@ -24,8 +24,8 @@ This extension contains an icon set of another author. Please note the license t
 
 | Name    | *TYPO3 Icons*                                                                                                             |
 | :------ | :------------------------------------------------------------------------------------------------------------------------ |
-| Type    | SVG                                                                                                                       |
-| Version | *4.1.0*                                                                                                                   |
+| Type    | SVG, SVG-Sprite                                                                                                           |
+| Version | *4.3.3*                                                                                                                   |
 | Source  | https://github.com/TYPO3/TYPO3.Icons                                                                                      |
 | License | [MIT](https://opensource.org/licenses/MIT)                                                                                |
 | Creator | [TYPO3 CMS Core Team](https://forge.typo3.org/projects/typo3cms-core)/[The TYPO3 Community](https://typo3.org/community/) |
