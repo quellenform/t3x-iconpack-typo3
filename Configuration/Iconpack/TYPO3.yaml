@@ -18,8 +18,6 @@ iconpack:
 
     svgInline:
       source: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons-4.1.0/svgs/%1$s/"
-      attributes:
-        role: "img"
 
   options:
 
