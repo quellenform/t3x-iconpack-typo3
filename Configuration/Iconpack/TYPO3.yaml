@@ -7,7 +7,6 @@ iconpack:
   renderTypes:
 
     _default:
-      css: "EXT:iconpack_typo3/Resources/Public/Css/t3-icons.min.css"
       prefix: "t3-"
 
     svg:
@@ -18,44 +17,6 @@ iconpack:
 
     svgInline:
       source: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons/svgs/%1$s/"
-
-  options:
-
-    size:
-      type: "select"
-      label: "LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:label.size"
-      values:
-        xs:
-          label: "LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:size.sm"
-          attributes:
-            class: "t3-icon-size-sm"
-        sm:
-          label: "LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:size.md"
-          attributes:
-            class: "t3-icon-size-md"
-        lg:
-          label: "LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:size.lg"
-          attributes:
-            class: "t3-icon-size-lg"
-        xl:
-          label: "LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:size.xl"
-          attributes:
-            class: "t3-icon-size-xl"
-
-    transform:
-      type: "select"
-      label: "LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:label.transform"
-      values:
-        spin:
-          label: "LLL:EXT:iconpack/Resources/Private/Language/locallang_be.xlf:transform.spin"
-          attributes:
-            class: "t3-icon-spin"
-
-    disabled:
-      type: "checkbox"
-      label: "LLL:EXT:core/Resources/Private/Language/locallang_common.xlf:disabled"
-      attributes:
-        class: "t3-icon-state-disabled"
 
   categories: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons/metadata/categories.yml"
 
