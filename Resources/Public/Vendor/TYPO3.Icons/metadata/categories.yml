@@ -206,22 +206,23 @@ actions:
     - actions-accessibility
     - actions-approve
     - actions-archive
-    - actions-arrow-down-alt
-    - actions-arrow-down-left-alt
-    - actions-arrow-down-left
-    - actions-arrow-down-right-alt
-    - actions-arrow-down-right
-    - actions-arrow-down
-    - actions-arrow-left-alt
-    - actions-arrow-left
-    - actions-arrow-right-alt
-    - actions-arrow-right-down-alt
-    - actions-arrow-right-down
-    - actions-arrow-right
-    - actions-arrow-right-up-alt
-    - actions-arrow-right-up
+    - actions-arrow-down-start-alt
+    - actions-arrow-down-start
+    - actions-arrow-down-end-alt
+    - actions-arrow-down-end
+    - actions-arrow-end-down-alt
+    - actions-arrow-end-down
+    - actions-arrow-end-up-alt
+    - actions-arrow-end-up
     - actions-arrow-up-alt
     - actions-arrow-up
+    - actions-arrow-down-alt
+    - actions-arrow-down
+    - actions-arrow-start-alt
+    - actions-arrow-start
+    - actions-arrow-end-alt
+    - actions-arrow-end
+    - actions-aspect-ratio
     - actions-badge
     - actions-ban
     - actions-barcode-read
@@ -264,14 +265,14 @@ actions:
     - actions-calendar
     - actions-canvas
     - actions-capslock
-    - actions-caret-bar-bottom
-    - actions-caret-bar-left
-    - actions-caret-bar-right
     - actions-caret-bar-top
-    - actions-caret-down
-    - actions-caret-left
-    - actions-caret-right
+    - actions-caret-bar-bottom
+    - actions-caret-bar-start
+    - actions-caret-bar-end
     - actions-caret-up
+    - actions-caret-down
+    - actions-caret-start
+    - actions-caret-end
     - actions-cart
     - actions-category
     - actions-certificate-alternative
@@ -284,18 +285,18 @@ actions:
     - actions-check-square-alt
     - actions-check-square
     - actions-check
-    - actions-chevron-bar-down
-    - actions-chevron-bar-left
-    - actions-chevron-bar-right
     - actions-chevron-bar-up
+    - actions-chevron-bar-down
+    - actions-chevron-bar-start
+    - actions-chevron-bar-end
     - actions-chevron-contract
-    - actions-chevron-double-left
-    - actions-chevron-double-right
-    - actions-chevron-down
+    - actions-chevron-double-start
+    - actions-chevron-double-end
     - actions-chevron-expand
-    - actions-chevron-left
-    - actions-chevron-right
     - actions-chevron-up
+    - actions-chevron-down
+    - actions-chevron-start
+    - actions-chevron-end
     - actions-circle-full
     - actions-circle-half
     - actions-circle
@@ -444,6 +445,8 @@ actions:
     - actions-map
     - actions-marker
     - actions-menu-alternative
+    - actions-menu-sidebar-collapsed
+    - actions-menu-sidebar-expanded
     - actions-menu
     - actions-message-add
     - actions-message-dots
