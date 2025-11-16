@@ -1,7 +1,7 @@
 iconpack:
   title: "TYPO3 Icons"
   key: "t3"
-  version: 4.3.3
+  version: 4.4.1
   url: "https://typo3.github.io/TYPO3.Icons/"
 
   renderTypes:
