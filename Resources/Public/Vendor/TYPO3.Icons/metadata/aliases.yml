@@ -1,0 +1,36 @@
+actions-arrow-down-start-alt:
+  - actions-arrow-down-left-alt
+actions-arrow-down-start:
+  - actions-arrow-down-left
+actions-arrow-down-end-alt:
+  - actions-arrow-down-right-alt
+actions-arrow-down-end:
+  - actions-arrow-down-right
+actions-arrow-end-down-alt:
+  - actions-arrow-right-down-alt
+actions-arrow-end-down:
+  - actions-arrow-right-down
+actions-arrow-end-up-alt:
+  - actions-arrow-right-up-alt
+actions-arrow-end-up:
+  - actions-arrow-right-up
+actions-caret-bar-start:
+  - actions-caret-bar-left
+actions-caret-bar-end:
+  - actions-caret-bar-right
+actions-caret-start:
+  - actions-caret-left
+actions-caret-end:
+  - actions-caret-right
+actions-chevron-bar-start:
+  - actions-chevron-bar-left
+actions-chevron-bar-end:
+  - actions-chevron-bar-right
+actions-chevron-double-start:
+  - actions-chevron-double-left
+actions-chevron-double-end:
+  - actions-chevron-double-right
+actions-chevron-start:
+  - actions-chevron-left
+actions-chevron-end:
+  - actions-chevron-right

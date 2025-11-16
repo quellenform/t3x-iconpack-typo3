@@ -21,3 +21,5 @@ iconpack:
   categories: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons/metadata/categories.yml"
 
   icons: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons/metadata/icons.yml"
+
+  aliases: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons/metadata/aliases.yml"
