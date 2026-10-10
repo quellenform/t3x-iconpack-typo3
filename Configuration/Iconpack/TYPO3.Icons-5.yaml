@@ -1,0 +1,24 @@
+iconpack:
+  title: "TYPO3 Icons"
+  key: "t3"
+  version: 5.0.3
+  url: "https://typo3.github.io/TYPO3.Icons/"
+
+  renderTypes:
+    _default:
+      prefix: "t3-"
+
+    svg:
+      source: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons-5/svgs/%1$s/"
+
+    svgSprite:
+      source: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons-5/sprites/%1$s.svg"
+
+    svgInline:
+      source: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons-5/svgs/%1$s/"
+
+  categories: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons-5/metadata/categories.yml"
+
+  icons: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons-5/metadata/icons.yml"
+
+  aliases: "EXT:iconpack_typo3/Resources/Public/Vendor/TYPO3.Icons-5/metadata/aliases.yml"
